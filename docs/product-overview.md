@@ -1,6 +1,6 @@
-# DevFlow — Product Overview
+## DevFlow — Product Overview
 
-## Vision
+### Vision
 
 DevFlow is a workflow coordination platform designed for modern engineering teams.
 
@@ -20,7 +20,7 @@ DevFlow acts as a coordination layer above existing developer tools, helping eng
 
 ---
 
-# Problem Statement
+## Problem Statement
 
 Engineering teams constantly switch between multiple tools throughout the day:
 - communication platforms
@@ -43,7 +43,7 @@ Most existing tools focus on communication or task management individually, but 
 
 ---
 
-# Solution
+## Solution
 
 DevFlow introduces a centralized workflow dashboard that aggregates important engineering activities from connected platforms.
 
@@ -69,9 +69,9 @@ The goal is to reduce information loss while improving engineering visibility an
 
 ---
 
-# Core Product Philosophy
+## Core Product Philosophy
 
-## Existing Workflows First
+### Existing Workflows First
 
 DevFlow does not attempt to replace Slack or existing engineering tools.
 
@@ -81,7 +81,7 @@ Teams continue working in their normal environments while DevFlow provides centr
 
 ---
 
-## Structured Workflow Signals
+### Structured Workflow Signals
 
 Modern communication systems contain significant amounts of noise.
 
@@ -101,7 +101,7 @@ This keeps workflows reliable, predictable, and manageable.
 
 ---
 
-## Role-Based Workflow Coordination
+### Role-Based Workflow Coordination
 
 DevFlow supports role-based workflow permissions to maintain structured and high-signal engineering coordination.
 
@@ -119,7 +119,7 @@ The goal is to keep dashboards focused on meaningful coordination rather than ra
 
 ---
 
-## Engineering Visibility
+### Engineering Visibility
 
 DevFlow helps engineering leadership understand team activity without manually monitoring every communication channel.
 
@@ -135,7 +135,7 @@ This is especially valuable for remote engineering teams.
 
 ---
 
-## Knowledge Capture
+### Knowledge Capture
 
 Important technical knowledge is frequently lost inside chats and notifications.
 
@@ -151,7 +151,7 @@ into centralized and searchable knowledge collections.
 
 ---
 
-## AI-Assisted Productivity
+### AI-Assisted Productivity
 
 AI in DevFlow is designed as an enhancement layer rather than a replacement for human decision-making.
 
@@ -167,9 +167,9 @@ Human users remain responsible for workflow approval and operational decisions.
 
 ---
 
-# Example Workflow Scenarios
+## Example Workflow Scenarios
 
-## Important Engineering Announcement
+### Important Engineering Announcement
 
 ```txt
 Engineering lead posts update in Slack
@@ -185,7 +185,7 @@ Team visibility improved
 
 ---
 
-## Meeting Coordination
+### Meeting Coordination
 
 ```txt
 Meeting link shared in engineering channel
@@ -199,7 +199,7 @@ Meeting appears in dashboard workflow
 
 ---
 
-## Knowledge Sharing
+### Knowledge Sharing
 
 ```txt
 Developer shares useful architecture article
@@ -213,7 +213,7 @@ Other developers can access later
 
 ---
 
-## Task Coordination
+### Task Coordination
 
 ```txt
 Project manager creates engineering task
@@ -227,7 +227,7 @@ Task tracked across engineering workflow
 
 ---
 
-# Dashboard Philosophy
+## Dashboard Philosophy
 
 The DevFlow dashboard is not intended to replace communication platforms.
 
@@ -241,7 +241,7 @@ The dashboard focuses on meaningful workflow activity rather than raw communicat
 
 ---
 
-# Target Users
+## Target Users
 
 Primary users:
 - software engineers
@@ -257,32 +257,32 @@ However, the platform architecture is intended to support broader organizational
 
 ---
 
-# Core Features
+## Core Features
 
-## Engineering Dashboard
+### Engineering Dashboard
 Centralized visibility across engineering workflows and activities.
 
-## Workflow Labels
+### Workflow Labels
 Structured workflow signals that trigger coordination and automation.
 
-## Role-Based Permissions
+### Role-Based Permissions
 Role-driven workflow publishing and organizational coordination controls.
 
-## Slack Integration
+### Slack Integration
 Aggregates workflow activity from engineering channels.
 
-## Knowledge Hub
+### Knowledge Hub
 Shared engineering learning and resource system.
 
-## Activity Feed
+### Activity Feed
 Unified engineering activity feed across connected services.
 
-## AI Assistance
+### AI Assistance
 Future AI-powered workflow enhancement and summarization tools.
 
 ---
 
-# Long-Term Vision
+## Long-Term Vision
 
 DevFlow aims to evolve into an intelligent workflow coordination system for modern engineering organizations.
 

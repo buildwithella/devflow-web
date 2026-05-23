@@ -1,4 +1,4 @@
-# DevFlow
+## DevFlow
 
 DevFlow is a workflow coordination platform for engineering teams.
 
@@ -8,7 +8,7 @@ The initial focus of DevFlow is helping remote development teams coordinate comm
 
 ---
 
-# Features
+## Features
 
 - Unified engineering dashboard
 - Cross-platform workflow coordination
@@ -22,7 +22,7 @@ The initial focus of DevFlow is helping remote development teams coordinate comm
 
 ---
 
-# Planned Integrations
+## Planned Integrations
 
 - Slack
 - GitHub
@@ -33,9 +33,9 @@ The initial focus of DevFlow is helping remote development teams coordinate comm
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Frontend
+### Frontend
 
 - Next.js
 - TypeScript
@@ -44,13 +44,13 @@ The initial focus of DevFlow is helping remote development teams coordinate comm
 - Zustand
 - ESLint
 
-## Backend
+### Backend
 
 Backend architecture is currently in planning and development.
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```txt
 src/
@@ -68,7 +68,7 @@ src/
 
 ---
 
-# Documentation
+## Documentation
 
 Additional documentation can be found in the `docs/` directory.
 
