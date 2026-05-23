@@ -1,23 +1,39 @@
 # DevFlow
 
-DevFlow is a developer workflow platform that integrates tools like Notion, GitHub, Slack, Jira, and other engineering services into a unified workspace for development teams.
+DevFlow is a workflow coordination platform for engineering teams.
 
-The goal of DevFlow is to centralize collaboration, task management, engineering workflows, and cross-platform search into a single developer experience.
+The platform integrates tools such as Slack, GitHub, Jira, and Notion into a unified workspace designed to improve engineering visibility and reduce workflow fragmentation.
+
+The initial focus of DevFlow is helping remote development teams coordinate communication, operational activities, knowledge sharing, and workflow management across multiple services.
 
 ---
 
-# 🚀 Features
+# Features
 
-- Unified developer workflow dashboard
-- Multi-platform integrations
-- Cross-platform search
+- Unified engineering dashboard
+- Cross-platform workflow coordination
+- Structured workflow labels
+- Knowledge and resource organization
+- Multi-platform integration architecture
 - Workspace and authentication system
 - Scalable frontend architecture
+- AI-assisted workflow enhancements (planned)
 - Real-time collaboration support (planned)
 
 ---
 
-# 🛠️ Tech Stack
+# Planned Integrations
+
+- Slack
+- GitHub
+- Jira
+- Notion
+- CI/CD services
+- Meeting platforms
+
+---
+
+# Tech Stack
 
 ## Frontend
 
@@ -30,11 +46,11 @@ The goal of DevFlow is to centralize collaboration, task management, engineering
 
 ## Backend
 
-> Backend stack currently in planning/development.
+Backend architecture is currently in planning and development.
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```txt
 src/
@@ -49,3 +65,15 @@ src/
 ├── types/
 └── utils/
 ```
+
+---
+
+# Documentation
+
+Additional documentation can be found in the `docs/` directory.
+
+- Product Overview
+- Architecture
+- Process Flow
+- Roadmap
+- Integrations
